@@ -1,6 +1,6 @@
 Hi there, I’m @SandaliChandrasekara
-Welcome to my GitHub profile! 
-Explore, discover, and collaborate on exciting projects with me...
+-Welcome to my GitHub profile! 
+-Explore, discover, and collaborate on exciting projects with me...
 
 Reach out to me via:
 - sandalichandrasekarat20@gmail.com
