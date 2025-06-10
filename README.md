@@ -1,11 +1,6 @@
-Hi there, I’m Sandali Chandrasekara
+Hey there, I’m Sandali Chandrasekara
 
-A DevOps Engineer who's in love with cloud engineering
-
-Reach out to me via:
-- sandalichandrasekarat20@gmail.com
-- www.linkedin.com/in/sandali-chandrasekara-b57774239 
-
+A DevOps Engineer who's in love with Cloud Engineering
 
 <!---
 SandaliChandrasekara/SandaliChandrasekara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
